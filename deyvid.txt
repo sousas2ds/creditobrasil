@@ -1,1 +1,1 @@
-pagos=12-pendentes=12-perdidos=12
+pagos=12312312-pendentes=152,200-perdidos=12
