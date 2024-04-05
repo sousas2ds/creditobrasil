@@ -1,3 +1,1 @@
-pagos = 500.200,50
-pendentes = 19.200,50
-perdidos = 11.000,50
+pagos = 999.100,50 - pendentes = 998.86,50 - perdidos = 990.000,50 -
