@@ -1,1 +1,1 @@
-pagos=1525020-pendentes=1525020-perdidos=1525020
+pagos=pagos = 1525020-pendentes=pendentes = 1525020.00-perdidos=perdidos = 1525020.00
