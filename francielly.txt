@@ -1,1 +1,1 @@
-pagos=200-pendentes=200-perdidos=200
+pagos=150.000,00-pendentes=50.000,00-perdidos=25.000,00
