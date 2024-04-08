@@ -1,1 +1,1 @@
-pagos=R$ 23.300,50-pendentes=R$23.300,50-perdidos=R$23.300,50
+Pagos R$ 23.300,50-Pendentes R$23.300,50-Perdidos R$23.300,50
