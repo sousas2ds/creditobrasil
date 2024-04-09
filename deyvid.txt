@@ -1,1 +1,1 @@
-pagos=156.800,98-pendentes=-perdidos=
+pagos=393.209.87-pendentes=443.200,20-perdidos=543.200,20-assinados=643.200,20
