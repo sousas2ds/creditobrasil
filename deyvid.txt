@@ -1,1 +1,1 @@
-pagos=39150.32-pendentes=39150.32-perdidos=39150.32
+pagos=39150020-pendentes=39150020-perdidos=39150020
