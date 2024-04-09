@@ -1,1 +1,1 @@
-pagos=-pendentes=-perdidos=
+pagos=15896,200-pendentes=15896,200-perdidos=15896,200-assinados=15896,200
