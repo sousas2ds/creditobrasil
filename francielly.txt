@@ -1,1 +1,1 @@
-pagos=99320988-pendentes=99320988-perdidos=99320988-assinados=99320988
+pagos=99320920-pendentes=-perdidos=-assinados=
