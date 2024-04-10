@@ -1,1 +1,1 @@
-pagos=R$39.320.987-pendentes=R$74.320.020-perdidos=R$64.320.020-assinados=R$44.320.020
+pagos=R$39.320.982-pendentes=R$74.320.020-perdidos=R$64.320.020-assinados=R$44.320.020
