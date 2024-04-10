@@ -1,1 +1,1 @@
-pagos=R$3-pendentes=R$2-perdidos=R$3-assinados=R$6
+pagos=R$47.792,000-pendentes=R$0,00-perdidos=R$0,00-assinados=R$0,00
