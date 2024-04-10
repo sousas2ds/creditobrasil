@@ -1,1 +1,1 @@
-pagos=R$2-pendentes=R$2-perdidos=R$3-assinados=R$5
+pagos=R$3-pendentes=R$2-perdidos=R$3-assinados=R$5
